@@ -51,7 +51,7 @@
 
 ---
 
-## 🌈 À Propos de Moi
+## ✨ À Propos de Moi
 
 <div align="center">
 
